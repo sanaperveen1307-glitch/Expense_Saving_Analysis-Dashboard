@@ -23,4 +23,5 @@ The dashboard is designed to deliver clear financial insights for effective deci
 
 ## Dasboard 
 
+<img width="1360" height="715" alt="Expense Vs Revenue Dashboard" src="https://github.com/user-attachments/assets/a36932cd-dda5-487e-8e7a-59e98e3228d4" />
 
