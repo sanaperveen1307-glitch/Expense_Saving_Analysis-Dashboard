@@ -9,8 +9,8 @@ The dashboard is designed to deliver clear financial insights for effective deci
 <a href="https://github.com/sanaperveen1307-glitch/Expense_Saving_Analysis-Dashboard/blob/main/Dataset.xlsx"> Project Dataset </a>
 
 ##  KPI (Questions)
-- Which Month got highest Sales  ?
--What are the ratio Between Expense and Revenue?
+- Which Month got highest Sales ?
+- What are the ratio Between Expense and Revenue?
 - What are the Income, Expense , Saving status by years?
 - How the Growth Rate Income & Expense is fluctuating by YTD?
 - Dashbooard Interaction <a href="https://github.com/sanaperveen1307-glitch/Expense_Saving_Analysis-Dashboard/blob/main/Revenue%20Vs%20Expense%20Dashboard.pbix">    Veiw Dashboard </a>
